@@ -2,4 +2,4 @@
  React.js
 
 
-[Live DEMO:] (https://shivukumara-qr-code-generator.netlify.app/)
+# Live DEMO: (https://shivukumara-qr-code-generator.netlify.app/)
